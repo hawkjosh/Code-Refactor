@@ -6,7 +6,7 @@ In this challenge, I refactored the provided source code to follow accesibility 
 
 ## Screenshot
 
-![Screenshot of the deployed web application](.\assets\images\module1_webpage_screenshot.png)
+![Screenshot of the deployed web application](./assets/images/module1_webpage_screenshot.png)
 
 ## Link
 
