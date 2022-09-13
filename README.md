@@ -1,4 +1,4 @@
-# module1-assignment
+# Code-Refactor
 
 ## Description
 
@@ -10,4 +10,4 @@ In this challenge, I refactored the provided source code to follow accesibility 
 
 ## Link
 
-To view the deployed website, [CLICK HERE](https://hawkjosh.github.io/module1-code-refactor-challenge/).
+To view the deployed website, [CLICK HERE](https://hawkjosh.github.io/Code-Refactor/).
